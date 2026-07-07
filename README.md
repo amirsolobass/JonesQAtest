@@ -7,7 +7,7 @@ Playwright automation for the Jones QA home assignment — landing form tests ag
 - Node.js 18+ (developed on 25.6.1)
 
 ## Setup
-
+Clone the repo (or unzip the attached archive), then from the project root:
 ```bash
 npm install
 npx playwright install chromium
