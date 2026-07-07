@@ -1,9 +1,11 @@
 {
-  "name": "acme-test",
+  "name": "jones-automation-exercise",
   "version": "1.0.0",
-  "description": "",
+  "description": "Playwright E2E tests for the Jones QA home assignment",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npx playwright test"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
